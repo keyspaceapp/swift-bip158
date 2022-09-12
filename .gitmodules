@@ -1,0 +1,3 @@
+[submodule "Sources/chiabip158"]
+	path = Sources/chiabip158
+	url = https://github.com/Chia-Network/chiabip158
